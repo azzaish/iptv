@@ -495,3 +495,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
+#EXTINF:-1 tvg-id="MNPlus" tvg-name="MNPlus" group-title="Movie",MNPlus
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" group-title="Movie",MNX
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MoviesHDNow" tvg-name="MoviesHDNow" group-title="Movie",MoviesHDNow
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MoviesSphere" tvg-name="MoviesSphere" group-title="Movie",MoviesSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/720p-en-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBOSignature" group-title="Movie",HBOSignature
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
+
+
+
