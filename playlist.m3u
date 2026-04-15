@@ -458,3 +458,35 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 http://103.66.62.83:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id@SD" tvg-logo="https://i.imgur.com/Uv8RWks.png" group-title="Indonesia",Wesal TV (720p) [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+
+#EXTINF:-1 tvg-name="Animax English Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax English Subs
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 tvg-name="Animax Indonesia Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Indonesia Subs
+http://93.190.139.35:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:-1 tvg-name="Animax Indonesia Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Indonesia Subs Backup
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-name="Animax Indonesia Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Indonesia Subs Backup 2
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-name="Animax Indonesia Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Indonesia Subs Backup 3
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-name="Animax Vietnam Subs" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png" group-title="JAPAN",Animax Vietnam Subs
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="JAPAN",Aniplus Indonesia Subs
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="JAPAN",Aniplus Indonesia Subs Backup
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-name="AT-X" tvg-logo="https://i.postimg.cc/VsHq0tSf/download-62.png" group-title="JAPAN",AT-X
+https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="Sony Gem" type-name="Sony Gem" tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="JAPAN",Sony Gem
+http://iptv.tvmalaysia.cc:80/penang189/penang189/8864
+#EXTINF:-1 tvg-id="Sony Gem" type-name="Sony Gem" tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="JAPAN",Sony Gem Backup
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-id="Sony Gem" type-name="Sony Gem" tvg-logo="https://i.postimg.cc/rFJtfGD2/GEM-2020.png" group-title="JAPAN",Sony Gem Backup 2
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-id="Waku-Waku Japan" type-name="Waku-Waku Japan" tvg-logo=https://i.postimg.cc/fRqdvrwT/download-76.png" JAPAN" ,Waku-Waku Japan
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065986
+#EXTINF:-1 tvg-id="Sony One" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Korea", Sony One
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-id="Sony One" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="Korea", Sony One Backup
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
