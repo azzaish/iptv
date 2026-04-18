@@ -112,13 +112,13 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="KIDS NETWORKS",USA: DISNEY XD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
 
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="KIDS NETWORKS",DISNEY JR. 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
 
 #EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://i.ibb.co/qm2Qz2b/945-9451491-one-piece-official-logo.png" group-title="KIDS EXCLUSIVES",One Piece
