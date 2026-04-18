@@ -85,6 +85,10 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/720p-en-cc/inde
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1024x576.m3u8
 
 
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.imgur.com/E1q4Kia.png" group-title="Movie",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 <======================= HBO MAX ===============================>
 
 
