@@ -25,7 +25,7 @@ http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="Okey.my@SD" tvg-logo="https://i.imgur.com/V2jREQ5.png" http-referrer="https://rtm-player.glueapi.io/" group-title="Malaysia",Okey
+#EXTINF:-1 tvg-id="Okey.my@SD" tvg-logo="https://i.imgur.com/V2jREQ5.png" http-referrer="https://rtm-player.glueapi.io/" group-title="Malaysia",OkeyTV
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
@@ -42,10 +42,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://www.tvmalaysia.live/"}
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV6.my@SD" tvg-logo="https://i.imgur.com/bK8UH9D.png" http-referrer="https://rtm-player.glueapi.io/" group-title="Malaysia",TV6
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-
 
 <======================= Indonesia ===============================>
 
@@ -56,11 +52,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="Indonesia-Pilihan",RCTI HD (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
-#EXTINF:-1 tvg-name="Trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia",Trans7
+#EXTINF:-1 tvg-name="Trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia-Pilihan",Trans7
 #EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://www.detik.com/"}
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="Indonesia",TransTV
+#EXTINF:-1 tvg-name="TransTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="Indonesia-Pilihan",TransTV
 #EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://www.detik.com/"}
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
@@ -76,7 +72,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 
 <======================= Indonesia News ===============================>
 
-#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="Indonesia-News",TV Mu (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="Indonesia-News",TV Muhammadiyah (720p) [Not 24/7]
 https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Indonesia-News",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
@@ -86,8 +82,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 <======================= Movies ===============================>
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="Movie Anime",Animax (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-logo="https://iili.io/JZICKiu.png" group-title="Movie",ROCK Entertainment (720p)
 http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
@@ -190,6 +185,9 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids Exclusives",Aniplus
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="Kids Exclusives",Animax (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
 <======================= HBO MAX ===============================>
 
