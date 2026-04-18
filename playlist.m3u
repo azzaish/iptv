@@ -10,15 +10,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Brunei",RTB Go (720p)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBSukmaindera.bn@SD" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="Brunei",RTB Sukmaindera (720p)
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Zee Bioskop - [Channel 23].id" tvg-logo="https://i.ibb.co/YFc0FLTj/Zee-Bioskop-2025-svg.png" group-title="Others",Zee Bioskop
-https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.m
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="Brunei",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
@@ -63,15 +55,6 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="Indonesia-Pilihan",Biznet Lifestyle (1080p)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Zee Bioskop - [Channel 23].id" tvg-logo="https://i.ibb.co/YFc0FLTj/Zee-Bioskop-2025-svg.png" group-title="Indonesia-Pilihan",Zee Bioskop
-https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.m
 
 <======================= Indonesia News ===============================>
 
