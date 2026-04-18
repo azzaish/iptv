@@ -62,19 +62,19 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 
 <======================= Movies ===============================>
 
-#EXTINF:-1 tvg-id="" group-title="Movie Anime",Animax (544p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="Movie Anime",Animax (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" group-title="Movie",ROCK Entertainment (720p)
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-logo="https://iili.io/JZICKiu.png" group-title="Movie",ROCK Entertainment (720p)
 http://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
-#EXTINF:-1 tvg-id="ROCKAction.sg@SD"  group-title="Movie",ROCK Action (720p)
+#EXTINF:-1 tvg-id="ROCKAction.sg@SD" tvg-logo="https://iili.io/JZIC3x9.png" group-title="Movie",ROCK Action (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
-#EXTINF:-1 tvg-id="MoviesSphere" tvg-name="MoviesSphere" group-title="Movie",MoviesSphere
+#EXTINF:-1 tvg-id="MoviesSphere" tvg-logo="https://deadline.com/wp-content/uploads/2024/06/MovieSphere.jpg" tvg-name="MoviesSphere" group-title="Movie",MoviesSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/720p-en-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="Miramax" tvg-name="Miramax" group-title="Movie",Miramax
+#EXTINF:-1 tvg-id="Miramax" tvg-logo="https://deadline.com/wp-content/uploads/2017/04/miramax-logo.jpg" tvg-name="Miramax" group-title="Movie",Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_1024x576.m3u8
 
 
