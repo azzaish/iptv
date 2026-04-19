@@ -166,10 +166,14 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="ANIMExHIDIVE.us" tvg-name="Anime x Hidlve" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="Kids Exclusives",Anime x Hidlve
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ANIMExHIDIVE HD.us" tvg-name="Anime x Hidlve HD" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="Kids Exclusives",Anime x Hidlve HD
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZG9pqFw.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Kids Exclusives",CRUNCHYROLL | EN AUDIO 
 https://bit.ly/Crunchyroll-ph
 
-#EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://d21tktytfo9riy.cloudfront.net/wp-content/uploads/2021/05/27151240/AB_RELOADED_202105_780x800_CharactersAndLogo-1.png" group-title="Cartoons and Animations", Angry Bird
+#EXTINF:-1 tvg-id="" tvg-name="tes" tvg-logo="https://i.imgur.com/bCZvXov.jpeg" group-title="Cartoons and Animations", Angry Bird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 
 #EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYsXFqofA9yrEHWjtaq2_0bdkIy4zY2-nIqEYa6lwYDiw0C4UeZMkpW7TYmCeAwYW4I-GideXBIuMrVxBi3PzcIFpLYQb4-5BMQYuESt7mO2-V4gY2yaxjhfafRDijOtM6rHp7PVu84sFoJjDxCT62UMdGznoq4tZrnDb8I9gslTCMl5ecwgK/w640-h456/image02_Pinkfong%20Surpassing%201B%20Streams%20on%20Spotify.jpg" tvg-chno="3170" group-title="Cartoons and Animations" , Baby Shark TV 
@@ -182,7 +186,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids Exclusives",Aniplus
+#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://www.anipluscafe.com/vanitas/wp-content/uploads/2019/11/logo-white.png" group-title="Kids Exclusives",Aniplus
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=530" group-title="Kids Exclusives",Animax (544p)
@@ -198,13 +202,13 @@ https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 #EXTINF:-1 tvg-id="Anime Vision (1080p)" tvg-logo="https://i.imgur.com/EJ76b65.png" group-title="Kids Exclusives",Anime Vision (1080p)
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
-#EXTINF:-1 tvg-id="Anime Vision Classics (1080p)" tvg-logo="https://i.imgur.com/NyGt6II.jpeg" group-title="Kids Exclusives",Anime Vision Classics (1080p)
+#EXTINF:-1 tvg-id="Anime Vision Classics (1080p)" tvg-logo="https://i.imgur.com/EJ76b65.png" group-title="Kids Exclusives",Anime Vision Classics (1080p)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://www.anipluscafe.com/vanitas/wp-content/uploads/2019/11/logo-white.png" group-title="Kids Exclusives",AniPlus
+#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://www.anipluscafe.com/vanitas/wp-content/uploads/2019/11/logo-white.png" group-title="Kids Exclusives",AniPlus HD
 https://slive.mana2.my/AniPlus/index.mpd
 
 #EXTINF:-1 tvg-id="animax" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=530" group-title="Kids Exclusives",Animax HD
