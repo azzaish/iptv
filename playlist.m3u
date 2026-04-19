@@ -2018,7 +2018,7 @@ https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="KIX - [Channel 161].id" tvg-logo="https://i.ibb.co/Hf88xf0N/KIX-logo-svg.png" group-title="Asian Favorites",KIX
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mp
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 <======================= SPORTS ===============================>
 
