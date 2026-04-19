@@ -185,7 +185,7 @@ https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids Exclusives",Aniplus
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="Kids Exclusives",Animax (544p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/D40AFC4A-BD3D-46B2-B1F4-78B483796A2A/0-16x9.png?width=530" group-title="Kids Exclusives",Animax (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
 
@@ -195,10 +195,10 @@ https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us@US" tvg-logo="https://images.pluto.tv/channels/62a2e8d8a1c8650007e95bac/colorLogoPNG.png" group-title="Kids Exclusives",Pluto TV Anime
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 
-#EXTINF:-1 tvg-id="Anime Vision (1080p)" tvg-logo="https://imgur.com/a/YieotFi" group-title="Kids Exclusives",Anime Vision (1080p)
+#EXTINF:-1 tvg-id="Anime Vision (1080p)" tvg-logo="https://i.imgur.com/EJ76b65.png" group-title="Kids Exclusives",Anime Vision (1080p)
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 
-#EXTINF:-1 tvg-id="Anime Vision Classics (1080p)" tvg-logo="https://imgur.com/a/YieotFi" group-title="Kids Exclusives",Anime Vision Classics (1080p)
+#EXTINF:-1 tvg-id="Anime Vision Classics (1080p)" tvg-logo="https://i.imgur.com/NyGt6II.jpeg" group-title="Kids Exclusives",Anime Vision Classics (1080p)
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
