@@ -1,7 +1,5 @@
 #EXTM3U
 
-x-tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/refs/heads/main/EPG%20AKTV.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://i.mjh.nz/SamsungTVPlus/all.xml" refresh="3600"
-
 <======================= Brunei ===============================>
 
 #EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-logo="https://i.imgur.com/MY40GrC.png" group-title="Brunei",RTB Aneka (720p)
@@ -89,9 +87,9 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="Indonesia-Pilihan",Biznet Lifestyle (1080p)
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
 
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Indonesia-Pilihan", INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_indosiar_small1.png" group-title="Indonesia-Pilihan", INDOSIAR
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 <======================= Indonesia News ===============================>
@@ -2092,25 +2090,25 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 
 <======================= Test ===============================>
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg" group-title="Test", BIOSKOP INDONESIA
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg" group-title="Test", BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tJBFyD8/Cinema-World.jpg" group-title="Test", CINEMA WORLD HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/tJBFyD8/Cinema-World.jpg" group-title="Test", CINEMA WORLD HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co.com/bgmWtxL/DUNIA-LAIN.jpg" group-title="Test", DUNIA LAIN
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/bgmWtxL/DUNIA-LAIN.jpg" group-title="Test", DUNIA LAIN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1025wXB/CNetwork.jpg" group-title="Test", CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/1025wXB/CNetwork.jpg" group-title="Test", CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
