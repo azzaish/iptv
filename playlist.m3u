@@ -5,13 +5,16 @@ url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 #EXTINF:-1 tvg-id="NTV7.my@SD" tvg-logo="https://i.imgur.com/jDWR3xI.png" group-title="Brunei",NTV7
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
 #EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-logo="https://i.imgur.com/MY40GrC.png" group-title="Brunei",RTB Aneka (720p)
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8#EXTINF:-1 tvg-id="Trans7.id@SD" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia-Pilihan",Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Brunei",RTB Go (720p)
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTBSukmaindera.bn@SD" tvg-logo="https://i.imgur.com/WpMGnTr.png" group-title="Brunei",RTB Sukmaindera (720p)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="Brunei",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
@@ -44,12 +47,31 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 <======================= Indonesia ===============================>
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png" group-title="Indonesia-Pilihan",ANTVᴴᴰ
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
+
+#EXTINF:-1 group-title="Indonesia-Pilihan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWXLEjqZOOO2LT5C_1aBWyMBW7K3X8UaK2r3jmKvNbuXaWpei7VO_9LR1lfKqXhTIvYjciKBzFsa2ENtKRmI5snupnZUB4zdLh-mzhgQwwryclFl-OCE-auGTDPhjOog0Wv36dnGXU1WJTG3T9yT-ZcWj7ddXMMZTLilzzt8rrZd7zLmHd221buxvteyRU/s700/GTV.png",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="Indonesia-Pilihan" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png",MNC TV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nY_fTWpo6H6BSeP3oSX2oWRiGmrT6EY60uQWOVFzsavMTG29cAFOrmu6n5VXeW1-ix365X-TEJOAa1bihheR2Z6FIu1h4x9oFO-TSdgMpQ-f2_npOSqcOwkUBgnlS_xClG7jpGlgABPkukv7t_chyphenhyphen5gDKwlBYLK3IPsxANMUWKd5h7SyFGj6N6RK05c/s700/IndosiarV2.jpg" group-title="Indonesia-Pilihan",Indosiarᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="--" group-title="Indonesia-Pilihan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png",SCTVᴴᴰ
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Indonesia-Pilihan",RCTI (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="Indonesia-Pilihan",RCTI HD (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id@SD" tvg-name="Trans7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia-Pilihan",Trans7
 #EXTHTTP:{"User-Agent":"Mozilla/5.0","Referer":"https://www.detik.com/"}
@@ -62,6 +84,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" http-referrer="https://indonesiana.tv/" group-title="Indonesia-Pilihan",Indonesiana.TV (720p)
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
+
 #EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Indonesia-Pilihan",Biznet Adventure (1080p)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
@@ -70,6 +93,10 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 
 
 <======================= Indonesia News ===============================>
+#EXTINF:-1 group-title="Indonesia-Pilihan" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTKuPVKXn_RBQ5ebV179yuSLUL_U3NWSo80n5SjEF420QzmQhyQZlz1fz_lOjIOLc0MXZfSnzUYddjzhGYy6WaoJm99hV2YZVmAd26zLuq65PwusxbnxUDR55FcxjKvNuOYMdz00HQGcWvmNt-5o9SK9bPynzFnA8l0CrZDlgxxK19tWIzKQm5hpwfWb3/s700/TVONE.png",TV One
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-id="TVMu.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="Indonesia-News",TV Muhammadiyah (720p) [Not 24/7]
 https://e.siar.us/live/tvmu.m3u8
@@ -78,6 +105,15 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="Indonesia-News",iNews (720p)
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA7qSD5p4GXRw29qwq1o5SwOZS0g0R9LeKbGucDCMLPtJxEuuwQsYtIwwjtqY_QqGzKkqA7Bk-up1JhFasm0lELKOPPNJZFP_Cf2gwhe2hXX0yAHwcQe2wzAnGfb9ijFoAYw1qJpAbufr_b6X2l1KTxUgxvOTVU5M3hBzKnjGCreQ3XAsAr6s8vTgT1rNA/s700/CNN%20INDONESIA.png" group-title="Indonesia-Pilihan",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5ZDD4TxA3wy6iQyqB-kFD59p6QjMTKzzXNIyUxtp_rH3Mb9ZL86ORdehMs3Zllpjq2YZANUla-wgFrewOk4AQz_quNJcV2RFj5Q0iO1tf8PihS1k_0QQ3oKxCl8CGnbDFO2LicNYLku3gzZNiJ5QBGnzMr8nhFZDBbKR7FPhqxXZ8Los7gbNOX9U3rTA/s700/CNBC%20INDONESIA.png" group-title="Indonesia-Pilihan",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 <======================= News ===============================>
 
@@ -2017,6 +2053,37 @@ https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 <======================= SPORTS ===============================>
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggg0K8bDQd4enyweJT_nhA2L-DI8A0lPzQmQF5mVIMH4_fnkoYw9Udtqn0CluzySjs-U-qz7MtMuZZaGYxTQtrxmXLHbfRwrATwwwBfuy2cPh2NwbcV8O1BmGue5SYGes7BNz_aZ73OHLZMhUmm03YX_HQ4sJRCnrO5lzzE-xauttkT8Z4vtgVD2_aIxo/s700/Fifa+.png",FIFA+
+#https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjYRIjYr_gCA6izOlvgA7uDN2BqVAzJiogul9Ylkl5DY-vIaMW_hQDL2LaDCqgcTb_gCYIvU9UAWgDUgHWtnatP-xy4_q50IWs-fwyRAkCjfAukHs4kAbK536BMIwer33u999_hbBS0nmubyeIVUWTLqUr2Q6r2QmnfRsRV2Nb_R42Twyks8VtLzq_zVmu/s700/EPL%20ANIM.gif" group-title="Sports",Premier League 2
+https://7pal.short.gy/nowhkp1
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFDKd8xeeDEsyVz-Q1tm5j6qWft7Flc-JLF5PeGeajnF9VIlyc4_dgIOD1sDqhcyxKsR0LmggCLtvyT4eUBwS4NNxccLsw5l6qBoH7k9FLDemo1IfhxJmOoGKiuCPuMY6zJ2peQOdvBVaxrQV4dzP5CyzRYCY6-N8FwxgrmBD0977ucJM800OQH4sfB4/s700/BeinSportsXtra.jpg",BEIN Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSiKKFOq9siCSRZemmlJnDWHa7ujO6cqvPq_lDhcn9kB3KXhNqnHD9R5RDBSggqW6raNpsG6jljzoeot1c3Fv0LQy_NHTyaZCENOxpbhWqPntFCrjnCxQECjCzhaxOzf4NSQkInENKJxyvzuXVRrgCGhaUQvxyPgWB1cHW-3ng6sOp5MG3W4jEKq35JY/s700/RCTISportsTV.jpg" group-title="Sports",RCTI Sports
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165918.ts
+
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDydtac0yXXCnZpFjstdKpqKNV7hV5izNJ_k1Z1EffBr0t7oORISPJvDhCkNWqzC4F2VWUd2mhzKxIFfEB9WZ-Y_DaHHCLULIZ4rvrBxm0O2w-arbXnsoWWXEc1Wa7CrtkoXvdLtEC6s3H0iZFwO9sP4m22qEqcta1YkoWuDu4ksOd9VEkr7sB2FMnyzc/s700/GTVsportsTV.jpg", GTV Sports
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts
+
+
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSavSGlfZ5xRDmTy2OU7llWiGoWGHM39gjA5zt9GjuDcj6wz9YgrL6NfvOBqLmAeMiAyzmbyj_tdHEc-xSSyyXI5g0DFcCUnTsJYXDcY4TciHjBOyX2Ses6JwLg3PW9iynC6cy6i4lEaShjLXa1vkATcoqGfWm9e7LTq9nsSgW4MMK6wat00wGWqKIPS0/s700/ANTVSportsTV.jpg" group-title="Sports",ANTV Sports
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
+http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
+
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhec_Ilqo1Lu1ju9m1CCkDHi_4qV1QKHi-oHebgySsTaght86haNRjOltU3qnY0bZ6K4x5HyD3S-oGh5XDa7oHnXl6RyuYZ6NsG_zMQvA8L5wPsx3aI8LaOUX8TQfeuw2jC1bPsAcOrM6fTIIatcN6PPkq6MxLcn82VtnT8RVhiW7nvks2deKe6P-cmTnI/s700/SCTVSportsTV.jpg" group-title="Sports",SCTV Sports
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://202.169.224.202:8800/udp/239.9.1.29:1234
 #EXTINF:-1 tvg-id="803.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArenaBola_2024.png" group-title="Sports",803 Astro Arena Bola HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
@@ -2040,3 +2107,42 @@ https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
 
 
+<======================= HBO ===============================>
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvtn6h145m1jmm4iyra-nE47euBz2m6ud9P4Uujd7PECr145kQXZel3A1qH3wj747QDKFjBfEA_QFHXtcizkAMBCUI1zIHIAp-bsptaH-blh6M2xY6Sz4xyduamr3thcOYkDk20-kz6-LomHGCcPcav-In_eu88jwb1YMYgxaxYomjxY74C0vw7whBlsA/s700/HBOTV.png" group-title="HBO Group",HBOᴴᴰ
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibtOnXi5UAeNQBCK6swgH2mwDck1Mhbtmt2B3KdVqqWpjeGzGkFe-5OzgfgCpD9X9reBul8zviIm4c2ejYosCQK8XLJ7WclpdnEqpCJxKVGPTwyOHjULV_Puo4tGfeU7A8U07A3MM9uC8fKdowM0l1FR4Sop0oaSGOZ2ztEplxP5-67vyn85ccnBodla0/s700/HBOHitsTV.png" group-title="HBO Group",HBO Hitsᴴᴰ
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu9OfmiYgaI8dCv9pVpEZ3tlZTc4FQtKC8-ScDJeXBQgV5zn_yT7aMJJWa0VTwXlr6k-Mgu3FOt5VvmI-nC9dE6ZWL19LiHaUKy2JSKKpHH3DaGK23lXUNVzRHJD9vrtgL9-D5OFMHwUhcsLNAnse-6MDumDTe3MVSPlpK0JlOl5pRtNbaAqp1yxy0oc4/s700/HBOFamilyTV.png" group-title="HBO Group",HBO Familyᴴᴰ
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbpAnB-yjscqFyrW8kJM2DF7ZcwFD84_gdUMht9RC85VpHWSDotf5tbjyIl4JmFQ-75HYmwr2FQhoJQDAHEzyFD-tINJycaasi2vCuq9kH1WxvNfAlwWIuB5SRzfcpeLV45T2tgmeSbNDr3QY9EjYfsj-NZ5p2Ak-uU0A4meBmx_gqJXdgRbo-hLvpjEI/s700/HBOSignatureTV.png" group-title="HBO Group",HBO Signatureᴴᴰ
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGYssuX8G8-6ni0gxuqJ19ZWr3g_gFqZ0tdq3dQGF5vzj_BmexpD3QYg18dJI427CwVB1nGevHVbiBqhmKs9WrqNkhxqixqXaHpiLL4nVo0Hyc1pnyBfg6hVInrBOzixhZRtsqIq1ltjEPnXII_6GSj6fvCL0DMf4FTVPnUWXeBPcyY-jeqD3zENm8LNw/s700/CinemaxTV.jpg" group-title="HBO Group",Cinemaxᴴᴰ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+<======================= MAX ===============================>
+
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK0a80bu433_Ww4u1zeoQDm2PZYn69uoeKrZO2GxaGyO7zxwYLlwbrEnaZrsMRALjLkZBgkBypsHfBeCp_w4edNX8J0zRB_Pit3lCMAwcXad78G8fZte1UDSuIc2ARj-N765MEgiOx6cZoS0E1t63xfNFragaUbkoGY-z_erenO9otffSaThJKnarUTHk/s700/MaxReels.png" group-title="Max Group",Max Reels
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrRhC4mViYyqJ8L0Qn66qoKegVeXN48AS94bgGzsbXUBx_5SKYY2uO9QH46ml1blZm-rUYEmJ8Da7PxeLAQ5Rmfv98WK9YK3De0acFF3GgZYvzdHH6r8FhIW6rcIDXf5yM15jZLwHW27V51K5eZtAN35wh2_X4lTOTUFE4JMP2XWOZI1u8RH_BZ-MpZzY/s700/MaxKids.jpg",Max Kids
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm8gQ-li7QgYM8SyTGHEqaR9zshakFdSAiqZ6CT-qsgWe8QaHbYqBTh4BemzeKhGkpUT2GPfglgqchnrJLnAStTCMH2NbN3JIdNj4_6ZbbZxbk8EHGm0rk6l_Iydd_leN8rH69O-3rZBJ7vJ1Lc8dyGbO9QE5PYPtjYp9G6zHjovyK3NuEEuxFab4VkkU/s700/MaxEats.png",Max Eats
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
+#EXTINF:-1 group-title="Max Group" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpp4HJvMo4sqI0P2XeVyV7-hHkI-lAmZyQ-BG_g5Z4AVkKVBHUycBscqFqqAWOJAzQ_JmPTjcQ8Mi8bH4Yqw3Fzpz2dtG_bGe_2C5gmXpQjW3WpR_J1aWOX1frbY5euUUdbJgX2HGjw7Z0QpJXC8AkyAMiWWSlumzOSgGOmPV0S3klcAUd1MdDpndsGWU/s700/MaxStreak.png",Max Streak
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+#EXTINF:-1 group-title="Max Group"  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZnY419xIP_5KZFlUbt0i6LJpNQoKYmeyx7iLgnDF-D767qVtpw0207VNV9uQDYFjNYJEuJBp0DgDjMi9L7Gt5AuFUvuFWz725kXkln39914ov2inDuXQbSy24bE-xjqerKJPmbSu0HNlY50exWuByciCP7PFr4WKghobEHvpl-uzTnT1_BFTUy4Tz2wE/s700/MaxSports.png",Max Sports
+https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
