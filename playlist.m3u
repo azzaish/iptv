@@ -245,6 +245,20 @@ https://amg01438-ewscrippscompan-ionplus-tablo-8lmg6.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89923_dark_360w_270h.png",ION Mystery
 https://amg01438-ewscrippscompan-ionmystery-tablo-lhsvm.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="13" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifhxfUh2hy4Fy4lwOnG_xA2sAOI3E62X3FqWtJlusVUinR8Xzcvu69kIvudEuYrAzTglWoQaxtf6TILyC7j8m04jSndzI2EEG0n0KWlahkv2vOxhpdGvRJz3cewNeizPk-C0cyECip9MU0ph68_WSpEiwuGpMx_ytDQXKSq9E4SCD4OSdwDk93H288cD_7/s700/ROCK%20ACTION.png" group-title="Movies",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="RockEntertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBoxL9KiRwQknI4EF3dgYXOI2291Y_gOTlvWYHeE2igbXDtgofjKCfSZX_65wmcvxtc2GsA-WPLlflESvEiKeD57aW6Y4gHJSnzRXw7e9T942K134f9obxlw9dHndcIMfCWVvz1g84WSaf_VcWzwCBvPTQDwQf7T2ZLOVxemjuuNIh8xWZIcjnC8GBDX8Q/s700/ROCK%20ENTERTAINMENT.png" group-title="Movies", Rock Entertainment
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
 <======================= KIDS ===============================>
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: DISNEY CHANNEL" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png" group-title="Kids Networks",DISNEY CHANNEL
