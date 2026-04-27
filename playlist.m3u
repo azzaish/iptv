@@ -38,20 +38,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="Malaysia" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-https://get.perfecttv.net/xjwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3
-
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="Malaysia" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 HD (B)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
-https://get.perfecttv.net/unifi.mpd?username=vip_3klp0es8&password=wg3piwEs&ch=tv3unifi
-
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="TV3" group-title="Malaysia" tvg-logo="https://get.perfecttv.net/logo/tv3.png",103 TV3 (C)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -65,6 +51,14 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=channel=tv3
+
+#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/tv9.png",106 TV9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv9
 
 <======================= Indonesia ===============================>
 
