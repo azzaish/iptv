@@ -236,6 +236,14 @@ https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://mimipipi22.github.io/logo/entertainment/warner.jpg" group-title="Movies",WARNER TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122912_dark_360w_270h.png",ION
+https://amg01438-ewscrippscompan-ion-tablo-yib4v.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117518_dark_360w_270h.png",ION Plus
+https://amg01438-ewscrippscompan-ionplus-tablo-8lmg6.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89923_dark_360w_270h.png",ION Mystery
+https://amg01438-ewscrippscompan-ionmystery-tablo-lhsvm.amagi.tv/playlist.m3u8
 
 <======================= KIDS ===============================>
 
@@ -2138,31 +2146,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 
-
-
-
-
-
 <======================= Streaming ===============================>
-
-#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119212_dark_360w_270h.png",FOX SOUL
-https://aegis-cloudfront-1.tubi.video/66886913-4bc2-4a2b-84c3-a11c462c1916/index.m3u8
-
-#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117260_dark_360w_270h.png",AWE Plus
-https://cdn.herringnetwork.com/80A4DFF/n1.herringnetwork.com/live1/awee/playlist.m3u8
-
-#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122912_dark_360w_270h.png",ION
-https://amg01438-ewscrippscompan-ion-tablo-yib4v.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117518_dark_360w_270h.png",ION Plus
-https://amg01438-ewscrippscompan-ionplus-tablo-8lmg6.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89923_dark_360w_270h.png",ION Mystery
-https://amg01438-ewscrippscompan-ionmystery-tablo-lhsvm.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120179_dark_360w_270h.png",The Design Network
-https://thedesignnetwork-tdn-2-us.xumo.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140250_dark_360w_270h.png",Xploration Station
 https://srpdigital-xplorationstation-1-us.localnow.wurl.tv/manifest/playlist.m3u8
