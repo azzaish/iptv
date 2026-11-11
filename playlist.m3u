@@ -2,7 +2,8 @@
 
 <======================= Brunei ===============================>
 
-#EXTINF:-1 tvg-id="RTBAneka.bn@SD" tvg-logo="https://i.imgur.com/MY40GrC.png" group-title="Brunei",RTB Aneka (720p)
+#EXTINF:-1 tvg-id="RTBAneka.bn" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Brunei",RTB Aneka
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTBGo.bn@SD" tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="Brunei",RTB Go (720p)
